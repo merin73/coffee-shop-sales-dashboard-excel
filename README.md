@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 This project presents an interactive Excel dashboard built to analyze the sales and customer behavior of a multi-location coffee shop. The goal was to derive actionable insights from transactional data to improve decision-making around operations, marketing, and product strategy.
 
-![Dashboard Preview](./screenshot.png)
+![Dashboard Preview](./Screenshot.png)
 
 ---
 
