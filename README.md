@@ -46,8 +46,8 @@ Despite having a large volume of transaction data, the coffee shop lacked a cons
 ---
 
 ## 📁 Files Included
-- `coffee_shop_dashboard.xlsx` – The Excel dashboard file
-- `screenshot.png` – Visual preview of the dashboard
+- `Coffee Shop Sales.xlsx` – The Excel Data and dashboard filr
+- `Screenshot.png` – Visual preview of the dashboard
 - `README.md` – This project description
 
 
